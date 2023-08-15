@@ -79,4 +79,5 @@ With the radio running, I decided to design a housing for it. The project was cr
 
 ## Summary
 
+Trasceiver works as expected, It has 6W SSB output power. I will measure the sensitivity soon.
 That's it for now, I'm waiting for laser-cut elements, and in the next article, I will describe the further history of the construction - the activation of the Chinese PA 30W and tuning the low-pass filter.
