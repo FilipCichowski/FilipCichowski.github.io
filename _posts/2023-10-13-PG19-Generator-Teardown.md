@@ -1,6 +1,6 @@
 ---
 title: PG19 Radio Frequency 50MHz LC Generator - Repair & Teardown
-date: 2023-10-11 15:53:33 +/-TTTT
+date: 2023-10-13 15:53:33 +/-TTTT
 categories: [rf, teardown]
 tags: [generator, meratronik, analog, radio] # TAG names should always be lowercase
 ---
