@@ -1,6 +1,6 @@
 ---
 title: USSR Generator GRN-3 250kHz - Repair & Teardown
-date: 2023-10-14 16:13:33 +/-TTTT
+date: 2023-10-15 04:13:33 +/-TTTT
 categories: [rf, teardown]
 tags: [generator, analog, radio, ussr] # TAG names should always be lowercase
 ---
